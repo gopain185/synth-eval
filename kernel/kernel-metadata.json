@@ -1,0 +1,15 @@
+{
+  "id": "locdunhat/evaluating-synthetic-tabular-data",
+  "title": "Evaluating Synthetic Tabular Data",
+  "code_file": "synth-eval.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_internet": false,
+  "dataset_sources": [
+    "arseniyshutko/binary-aviation-satisfaction-129k"
+  ],
+  "competition_sources": [],
+  "kernel_sources": []
+}
